@@ -16,7 +16,7 @@
 #define false 0
 
 // TCP port, Minecraft's default is 25565
-#define PORT 25565
+#define PORT 3065
 
 // How many players to keep in memory, NOT the amount of concurrent players
 // Even when offline, players who have logged on before take up a slot
